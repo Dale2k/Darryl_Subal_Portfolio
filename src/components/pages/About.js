@@ -1,4 +1,5 @@
 import React from "react";
+import "./style.css";
 import { Container, Row, Col } from "react-bootstrap";
 import Image from "react-bootstrap/Image";
 import imageSrc from "./utils/profile.jpg";
