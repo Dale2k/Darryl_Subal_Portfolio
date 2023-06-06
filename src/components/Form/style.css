@@ -1,0 +1,29 @@
+* {
+background-color: aqua;
+}
+
+.form {
+  margin: 21px;
+
+}
+
+.form input {
+  display: block;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left : 350px;
+  width: 50%;
+  background-color: antiquewhite;
+  
+}
+
+.form button{
+background-color: antiquewhite;
+margin-left : 350px;
+
+}
+
+.error-text {
+margin-left : 350px;
+}
+
