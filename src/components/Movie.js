@@ -4,7 +4,7 @@ import imageSrc from "./pages/utils/Movie.png";
 function Movie() {
   return (
     <a
-      href="https://github.com/Dale2k/development-movie-app
+      href="https://movie-app-nc.herokuapp.com
 "
       className="btn btn-primary"
     >
