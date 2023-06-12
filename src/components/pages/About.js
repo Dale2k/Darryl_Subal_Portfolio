@@ -12,15 +12,14 @@ export default function About() {
         <Row>
           <Col>
             <p>
-              Hi, I am Darryl Subal. I live in Charlotte, NC metro area. I
-              earned the Full Stack Web Development Certificate from UNC
-              Charlotte in May 2023. I attended Kent State University where I
-              earned a Bachelor of Business Administration, major in Accounting
-              and an Associate Degree in Information Technologies from Cuyahoga
-              Community College. I have experience with Javascript, HTML, CSS,
-              Bootstrap, Node, SQL, Mongo, and React. A few of the applications
-              I have worked and the links to them are included on the Portfolio
-              Tab{" "}
+              Hi, I am Darryl Subal. I live in Charlotte, NC. I earned the Full
+              Stack Web Development Certificate from UNC Charlotte in May 2023.
+              I attended Kent State University where I earned a Bachelor of
+              Business Administration, major in Accounting and an Associate
+              Degree in Information Technologies from Cuyahoga Community
+              College. I have experience with Javascript, HTML, CSS, Bootstrap,
+              Node, SQL, Mongo, and React. A few of the apps I have created and
+              their links are included on the Portfolio Tab <br></br>{" "}
               <em>
                 1. <span> Password Generator </span>{" "}
               </em>{" "}
