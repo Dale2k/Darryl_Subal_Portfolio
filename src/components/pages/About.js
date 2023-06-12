@@ -18,8 +18,9 @@ export default function About() {
               Business Administration, major in Accounting and an Associate
               Degree in Information Technologies from Cuyahoga Community
               College. I have experience with Javascript, HTML, CSS, Bootstrap,
-              Node, SQL, Mongo, and React. A few of the apps I have created and
-              their links are included on the Portfolio Tab <br></br>{" "}
+              Node, SQL, Mongo, and React.{" "}
+              <span>A few of the apps I have created:</span>
+              <br></br>{" "}
               <em>
                 1. <span> Password Generator </span>{" "}
               </em>{" "}
@@ -56,9 +57,8 @@ export default function About() {
               Provide the weather for today an the next several upon entering a
               location. <br></br>
               One of my best qualities is to be open to new experiences and to
-              know learning is a continual life long process . <br></br>contact
-              me: dsubal@att.net github: https://github.com/Dale2k <br></br>
-              <span>Thank you </span>
+              know learning is a continual life long process .<br></br>contact
+              me: dsubal@att.net
             </p>
           </Col>
           <Col xs={6}>
