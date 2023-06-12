@@ -20,23 +20,45 @@ export default function About() {
               Community College. I have experience with Javascript, HTML, CSS,
               Bootstrap, Node, SQL, Mongo, and React. A few of the applications
               I have worked and the links to them are included on the Portfolio
-              Tab <em>1. Password Generator</em> where the user selects between
-              8 and 128 character length, and which type of character to
-              include: letter, number, special character, etc.
-              <em>2. Note Taker</em> app deployed on Heroku that will allow you
-              to add and delete notes. <em>3.SQL Database </em> is a Content
-              Management System SQL employee database. This application allows
-              the common function of a typical database including creating,
-              reading, updating and deleting items in the database. video Link:
-              https://drive.google.com/file/d/1zxmTThSdKwkbezvSe0HukTOpo_msbnZW/view
-              <em>4. Day Planner</em> using Node.js it utilizes local storage
-              and and dynamically changes CSS dependent on the time of day.
-              <em>5. Quiz App</em> utilizes a timer and checks provided answers
-              against the correct answer. <em>6. Weather App</em> Provide the
-              weather for today an the next several upon entering a location.
+              Tab{" "}
+              <em>
+                1. <span> Password Generator </span>{" "}
+              </em>{" "}
+              where the user selects between 8 and 128 character length, and
+              which type of character to include: letter, number, special
+              character, etc. <br></br>
+              <em>
+                2. <span>Note Taker </span>{" "}
+              </em>{" "}
+              app deployed on Heroku that will allow you to add and delete
+              notes. <br></br>{" "}
+              <em>
+                3. <span>SQL Database</span>{" "}
+              </em>{" "}
+              is a Content Management System SQL employee database. This
+              application allows the common function of a typical database
+              including creating, reading, updating and deleting items in the
+              database. <br></br> video Link:
+              https://drive.google.com/file/d/1zxmTThSdKwkbezvSe0HukTOpo_msbnZW/view{" "}
+              <br></br>
+              <em>
+                4. <span>Movie App</span>{" "}
+              </em>{" "}
+              Using react you can add, update and review your favorite movies.{" "}
+              <br></br>
+              <em>
+                5. <span>Quiz App</span>{" "}
+              </em>{" "}
+              utilizes a timer and checks provided answers against the correct
+              answer. <br></br>{" "}
+              <em>
+                6. <span>Weather App</span>{" "}
+              </em>{" "}
+              Provide the weather for today an the next several upon entering a
+              location. <br></br>
               One of my best qualities is to be open to new experiences and to
-              know learning is a continual life long process . contact me:
-              dsubal@att.net github: https://github.com/Dale2k
+              know learning is a continual life long process . <br></br>contact
+              me: dsubal@att.net github: https://github.com/Dale2k <br></br>
               <span>Thank you </span>
             </p>
           </Col>
