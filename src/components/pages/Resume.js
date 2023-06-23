@@ -7,31 +7,14 @@ export default function Tools() {
       <center>
         <h1>Resume</h1>
         <p>
-          Front-end Knowledge
+          Technical Skills
           <br />
           <br />
-          - HTML
+          - HTML, CSS, Javascript, React, Bootstap, Flexbox, Node.js
           <br />
-          - CSS
-          <br />
-          - Javascript
-          <br />
-          - Bootstrap
-          <br />
-          - React
-          <br />
-          <br />
-          Back-end Knowledge
-          <br />
-          <br />
-          - Node
-          <br />
-          - Express
-          <br />
-          - MySQl Sequelize
-          <br />
-          - MongoDB
-          <br />
+          SQL, MySql, MongoDB, Express.js
+          <br /> Data and Account Analysis, Excel functions, pivot tables,
+          vlookup, Journal entries and reconciliations.
         </p>
       </center>
       <Clck />
