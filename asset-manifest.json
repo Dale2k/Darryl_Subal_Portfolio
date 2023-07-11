@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Darryl_Subal_Portfolio/static/css/main.e9a7f369.css",
-    "main.js": "/Darryl_Subal_Portfolio/static/js/main.6dd8d6de.js",
+    "main.js": "/Darryl_Subal_Portfolio/static/js/main.6b5af2ef.js",
     "index.html": "/Darryl_Subal_Portfolio/index.html",
     "main.e9a7f369.css.map": "/Darryl_Subal_Portfolio/static/css/main.e9a7f369.css.map",
-    "main.6dd8d6de.js.map": "/Darryl_Subal_Portfolio/static/js/main.6dd8d6de.js.map"
+    "main.6b5af2ef.js.map": "/Darryl_Subal_Portfolio/static/js/main.6b5af2ef.js.map"
   },
   "entrypoints": [
     "static/css/main.e9a7f369.css",
-    "static/js/main.6dd8d6de.js"
+    "static/js/main.6b5af2ef.js"
   ]
 }
