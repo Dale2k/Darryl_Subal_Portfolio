@@ -24,29 +24,29 @@ export default function About() {
               <em>
                 <span> Password Generator </span>{" "}
               </em>{" "}
-              The user selects a password between 8 and 128 character length,
+              - The user selects a password between 8 and 128 character length,
               and types of character to include: letter, number, special
               character, etc. <br></br>
               <em>
                 <span>Note Taker </span>{" "}
               </em>{" "}
-              App deployed on Heroku that will allow you to add and delete
+              - App deployed on Heroku that will allow you to add and delete
               notes. <br></br>{" "}
               <em>
                 <span>Movie App</span>{" "}
               </em>{" "}
-              Using React you can add, update and review your favorite movies.{" "}
+              - Using React you can add, update and review your favorite movies.{" "}
               <br></br>
               <em>
                 <span>Quiz App</span>{" "}
               </em>{" "}
-              Utilizes a timer and grades your provided answers against the
+              - Utilizes a timer and grades your provided answers against the
               correct answer. <br></br>{" "}
               <em>
                 <span>Weather App</span>{" "}
               </em>{" "}
-              Provides the weather for today an the next several upon entering a
-              location. <br></br>
+              - Provides the weather for today an the next several upon entering
+              a location. <br></br>
               One of my best qualities is to be open to new experiences and to
               know learning is a continual life long process .<br></br>
               <span>Contact Me: </span>dsubal@att.net
