@@ -1,7 +1,5 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-
-import Database from "../Database";
 import Note from "../Note";
 import Password from "../Password";
 import Quiz from "../Quiz";
@@ -12,15 +10,10 @@ export default function Portfolio() {
   return (
     <div>
       <h1>Portfolio</h1>
-      <h3>Click on pictures below to be taken to github application.</h3>
+      <h3>Click on the links below to be taken to github application.</h3>
       <Container>
         <Row>
           <Col>
-            <Database />
-            <h6>
-              A command line CMS created with Node.js, Inquirer and Mysql.
-            </h6>
-
             <Note />
             <h6>
               An javascript application to create, save and delete notes using

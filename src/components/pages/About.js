@@ -22,43 +22,34 @@ export default function About() {
               <span>A few of the apps I have created:</span>
               <br></br>{" "}
               <em>
-                1. <span> Password Generator </span>{" "}
+                <span> Password Generator </span>{" "}
               </em>{" "}
-              where the user selects between 8 and 128 character length, and
-              which type of character to include: letter, number, special
+              The user selects a password between 8 and 128 character length,
+              and types of character to include: letter, number, special
               character, etc. <br></br>
               <em>
-                2. <span>Note Taker </span>{" "}
+                <span>Note Taker </span>{" "}
               </em>{" "}
-              app deployed on Heroku that will allow you to add and delete
+              App deployed on Heroku that will allow you to add and delete
               notes. <br></br>{" "}
               <em>
-                3. <span>SQL Database</span>{" "}
+                <span>Movie App</span>{" "}
               </em>{" "}
-              is a Content Management System SQL employee database. This
-              application allows the common function of a typical database
-              including creating, reading, updating and deleting items in the
-              database. <br></br> video Link:
-              https://drive.google.com/file/d/1zxmTThSdKwkbezvSe0HukTOpo_msbnZW/view{" "}
+              Using React you can add, update and review your favorite movies.{" "}
               <br></br>
               <em>
-                4. <span>Movie App</span>{" "}
+                <span>Quiz App</span>{" "}
               </em>{" "}
-              Using react you can add, update and review your favorite movies.{" "}
-              <br></br>
+              Utilizes a timer and grades your provided answers against the
+              correct answer. <br></br>{" "}
               <em>
-                5. <span>Quiz App</span>{" "}
+                <span>Weather App</span>{" "}
               </em>{" "}
-              utilizes a timer and checks provided answers against the correct
-              answer. <br></br>{" "}
-              <em>
-                6. <span>Weather App</span>{" "}
-              </em>{" "}
-              Provide the weather for today an the next several upon entering a
+              Provides the weather for today an the next several upon entering a
               location. <br></br>
               One of my best qualities is to be open to new experiences and to
-              know learning is a continual life long process .<br></br>contact
-              me: dsubal@att.net
+              know learning is a continual life long process .<br></br>
+              <span>Contact Me: </span>dsubal@att.net
             </p>
           </Col>
           <Col xs={6}>

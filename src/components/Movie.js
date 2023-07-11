@@ -1,5 +1,4 @@
 import React from "react";
-import imageSrc from "./pages/utils/Movie.png";
 
 function Movie() {
   return (
@@ -8,7 +7,7 @@ function Movie() {
 "
       className="btn btn-primary"
     >
-      <img src={imageSrc} alt=" " className="mr-2" />
+      -- MERN Movie Application --
     </a>
   );
 }
